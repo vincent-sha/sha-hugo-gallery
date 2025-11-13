@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文森的图库 on Vincent&#39;s Gallery</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in 文森的图库 on Vincent&#39;s Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>vincentshajing@gmail.com (文森Vincent)</managingEditor>
+    <webMaster>vincentshajing@gmail.com (文森Vincent)</webMaster>
+    <copyright>© 文森的图库 2025</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fashion &amp; Beauty</title>
+      <link>http://localhost:1313/fashion-beauty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>vincentshajing@gmail.com (文森Vincent)</author>
+      <guid>http://localhost:1313/fashion-beauty/</guid><description>Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.</description></item>
+    <item>
+      <title>Nature</title>
+      <link>http://localhost:1313/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>vincentshajing@gmail.com (文森Vincent)</author>
+      <guid>http://localhost:1313/nature/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
+    <item>
+      <title>Cats</title>
+      <link>http://localhost:1313/animals/cats/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0800</pubDate><author>vincentshajing@gmail.com (文森Vincent)</author>
+      <guid>http://localhost:1313/animals/cats/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Dogs</title>
+      <link>http://localhost:1313/animals/dogs/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0800</pubDate><author>vincentshajing@gmail.com (文森Vincent)</author>
+      <guid>http://localhost:1313/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>
