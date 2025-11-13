@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://vincentblog.dpdns.org"
 copyright = "© 文森的图库 2025"
 defaultContentLanguage = "zh"
 disableKinds = ["taxonomy"]
