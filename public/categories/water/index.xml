@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Water on Vincent&#39;s Gallery</title>
+    <link>http://localhost:1313/categories/water/</link>
+    <description>Recent content in Water on Vincent&#39;s Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>vincentshajing@gmail.com (文森Vincent)</managingEditor>
+    <webMaster>vincentshajing@gmail.com (文森Vincent)</webMaster>
+    <copyright>© 文森的图库 2025</copyright>
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/water/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>九寨沟</title>
+      <link>http://localhost:1313/%E5%9B%9B%E5%B7%9D/%E4%B9%9D%E5%AF%A8%E6%B2%9F/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0800</pubDate><author>vincentshajing@gmail.com (文森Vincent)</author>
+      <guid>http://localhost:1313/%E5%9B%9B%E5%B7%9D/%E4%B9%9D%E5%AF%A8%E6%B2%9F/</guid>
+        <media:content url="http://localhost:1313/%E5%9B%9B%E5%B7%9D/%E4%B9%9D%E5%AF%A8%E6%B2%9F/pexels-david-tran-1629960371-34619137_hu_5a000d3327c86980.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/%E5%9B%9B%E5%B7%9D/%E4%B9%9D%E5%AF%A8%E6%B2%9F/pexels-david-tran-1629960371-34619137_hu_5a000d3327c86980.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>洱海</title>
+      <link>http://localhost:1313/%E4%BA%91%E5%8D%97/%E6%B4%B1%E6%B5%B7/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0800</pubDate><author>vincentshajing@gmail.com (文森Vincent)</author>
+      <guid>http://localhost:1313/%E4%BA%91%E5%8D%97/%E6%B4%B1%E6%B5%B7/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>

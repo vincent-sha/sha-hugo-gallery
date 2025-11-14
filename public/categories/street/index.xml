@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Street on Vincent&#39;s Gallery</title>
+    <link>http://localhost:1313/categories/street/</link>
+    <description>Recent content in Street on Vincent&#39;s Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>vincentshajing@gmail.com (文森Vincent)</managingEditor>
+    <webMaster>vincentshajing@gmail.com (文森Vincent)</webMaster>
+    <copyright>© 文森的图库 2025</copyright><atom:link href="http://localhost:1313/categories/street/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

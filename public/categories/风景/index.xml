@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>风景 on Vincent&#39;s Gallery</title>
+    <link>http://localhost:1313/categories/%E9%A3%8E%E6%99%AF/</link>
+    <description>Recent content in 风景 on Vincent&#39;s Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>vincentshajing@gmail.com (文森Vincent)</managingEditor>
+    <webMaster>vincentshajing@gmail.com (文森Vincent)</webMaster>
+    <copyright>© 文森的图库 2025</copyright>
+    <lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E9%A3%8E%E6%99%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>四姑娘山</title>
+      <link>http://localhost:1313/%E9%A3%8E%E6%99%AF/%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0800</pubDate><author>vincentshajing@gmail.com (文森Vincent)</author>
+      <guid>http://localhost:1313/%E9%A3%8E%E6%99%AF/%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1/</guid>
+        <media:content url="http://localhost:1313/%E9%A3%8E%E6%99%AF/%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1/pexels-tizzy-19285807_hu_17dfbda7d9db8d2f.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/%E9%A3%8E%E6%99%AF/%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1/pexels-tizzy-19285807_hu_17dfbda7d9db8d2f.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

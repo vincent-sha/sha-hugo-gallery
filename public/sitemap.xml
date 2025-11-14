@@ -2,33 +2,108 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/animals/</loc>
+    <loc>http://localhost:1313/%E5%9B%9B%E5%B7%9D/</loc>
+    <lastmod>2025-11-14T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/%E5%86%85%E8%92%99%E5%8F%A4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E4%BA%91%E5%8D%97/</loc>
     <lastmod>2023-04-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fashion-beauty/</loc>
+    <loc>http://localhost:1313/%E8%A5%BF%E8%97%8F/</loc>
   </url><url>
-    <loc>http://localhost:1313/nature/</loc>
+    <loc>http://localhost:1313/%E6%96%B0%E7%96%86/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/animals/</loc>
-    <lastmod>2023-04-01T00:00:00+08:00</lastmod>
+    <loc>http://localhost:1313/%E5%AE%81%E5%A4%8F/</loc>
   </url><url>
-    <loc>http://localhost:1313/animals/cats/</loc>
-    <lastmod>2023-04-01T00:00:00+08:00</lastmod>
+    <loc>http://localhost:1313/%E9%9D%92%E6%B5%B7/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/nature/</loc>
-    <lastmod>2023-04-01T00:00:00+08:00</lastmod>
+    <loc>http://localhost:1313/%E7%94%98%E8%82%83/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E9%99%95%E8%A5%BF/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E5%B1%B1%E8%A5%BF/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E6%B1%9F%E8%A5%BF/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E5%AE%89%E5%BE%BD/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E6%B2%B3%E5%8D%97/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E6%B9%96%E5%8D%97/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E6%B9%96%E5%8C%97/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E7%A6%8F%E5%BB%BA/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E5%B1%B1%E4%B8%9C/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E6%B1%9F%E8%8B%8F/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E6%B5%99%E6%B1%9F/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E5%B9%BF%E4%B8%9C/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E4%B8%8A%E6%B5%B7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E5%8C%97%E4%BA%AC/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E9%BB%91%E9%BE%99%E6%B1%9F/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E5%90%89%E6%9E%97/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E8%BE%BD%E5%AE%81/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E6%B2%B3%E5%8C%97/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E5%A4%A9%E6%B4%A5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E9%87%8D%E5%BA%86/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E8%B4%B5%E5%B7%9E/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E5%B9%BF%E8%A5%BF/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E6%B5%B7%E5%8D%97/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E5%8F%B0%E6%B9%BE/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E9%A6%99%E6%B8%AF/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%E6%BE%B3%E9%97%A8/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/mountains/</loc>
+    <lastmod>2025-11-14T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/%E5%9B%9B%E5%B7%9D/%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1/</loc>
+    <lastmod>2025-11-14T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-14T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/water/</loc>
+    <lastmod>2023-06-15T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/%E5%9B%9B%E5%B7%9D/%E4%B9%9D%E5%AF%A8%E6%B2%9F/</loc>
+    <lastmod>2023-06-15T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/%E4%BA%91%E5%8D%97/%E6%B4%B1%E6%B5%B7/</loc>
     <lastmod>2023-04-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/animals/dogs/</loc>
+    <loc>http://localhost:1313/%E4%BA%91%E5%8D%97/%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1/</loc>
     <lastmod>2023-01-12T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/beauty/</loc>
+    <loc>http://localhost:1313/categories/architecture/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/fashion/</loc>
+    <loc>http://localhost:1313/categories/beach/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/city/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/culturalheritage/</loc>
   </url><url>
     <loc>http://localhost:1313/imprint/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/street/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url>
